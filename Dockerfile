@@ -1,5 +1,5 @@
 #Use CxFlow Base image
-FROM nidhi0512/cxflow:cxflowtest
+FROM nidhi0512/cxflow:cxflowtest1
 #Copy the entrypoint script and properties used for the action
 COPY entrypoint.sh /app/entrypoint.sh
 #Make it executable
